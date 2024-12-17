@@ -1,0 +1,22 @@
+1,beras bulog putih 5 kg,sembako,80000,20
+2,beras merah 2 kg,sembako,50000,20
+3,gula pasir 1 kg,sembako,20000,20
+4,gula merah 1 kg,sembako,30000,20
+5,sabun lifebouy botol 100 ml,perlengkapan mandi & mencuci,20000,20
+6,shampoo clear botol 100 ml,perlengkapan mandi & mencuci,20000,20
+7,kayu putih 210 ml,obat-obatan,75000,20
+8,komix,obat-obatan,1500,20
+9,panadol tablet isi 10,obat-obatan,10000,20
+10,moring original,makanan ringan,1000,20
+11,chuba,makanan ringan,1000,20
+12,moring pedas,makanan ringan,1000,20
+13,panther,minuman,1000,20
+14,kopikap,minuman,1000,20
+15,teh gelas,minuman,1000,20
+16,sampoerna filter 16 batang,rokok,32000,20
+17,djarum super filter 12 batang,rokok,27000,20
+18,juara jambu kretek 12 batang,rokok,12000,12
+19,bumbu nasi goreng,bumbu dapur,5000,20
+20,bumbu ayam goreng,bumbu dapur,5000,20
+21,bumbu ikan goreng,bumbu dapur,5000,20
+22,mustika kretek 12 batang,rokok,12000,12
